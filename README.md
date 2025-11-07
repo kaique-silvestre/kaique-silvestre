@@ -1,12 +1,12 @@
 ## Hello there I am Kaique👋
  
-I'm currently studying Systems Analysis and Development and focused on becoming a backend developer. Right now, I'm learning C#, Python, Git, and data structures on my own, every day.
+I’m currently studying Systems Analysis and Development, with a strong focus on becoming a backend developer.
+At the moment, I’m learning C#, Python, Git, and data structures on my own — and practicing every day.
 
-I like the idea of building something useful with code. Programming gives me the freedom to create, test, fail, fix, and watch things take shape. That's what keeps me motivated.
+I love the idea of building something useful through code. Programming gives me the freedom to create, experiment, fail, learn, and improve — and seeing things come to life is what keeps me motivated.
 
 [![kaique-silvestre](https://github-readme-stats.vercel.app/api/top-langs/?username=kaique-silvestre&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![card](https://github-readme-stats.vercel.app/api?username=kaique-silvestre&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <img 
     align="left" 
