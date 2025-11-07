@@ -29,17 +29,6 @@ I like the idea of building something useful with code. Programming gives me the
 
 
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-
-
 <!--
 **kaique-silvestre/kaique-silvestre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
