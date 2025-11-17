@@ -1,6 +1,5 @@
-## Hello there I am Kaique👋
- 
-I’m a backend developer in training, currently studying Analysis and Systems Development. I’m passionate about creating software and coding every day to learn and improve.
+## About Me 👋
+Hello there! My name is Kaique,  I’m a backend developer in training, currently studying Analysis and Systems Development. I’m passionate about creating software and coding every day to learn and improve.
 
 I have experience with Python (Flask, Argparse, Selenium, PySide6) and C#, and I’m familiar with databases like MySQL, SQL Server, and SQLite. I also use Git/GitHub for version control.
 
@@ -8,19 +7,18 @@ I love building useful things through code — experimenting, learning from mist
 
 When I’m not coding, I enjoy reading history books, learning languages, exploring investments, or taking a walk with my dog.
 
-Practice platforms:
+### Practice platforms:
+<ul>
+<li>LeetCode: https://leetcode.com/u/23pEL3v8SW/
+<li>HackerRank: https://www.hackerrank.com/profile/kaique_silvestr1
+</ul>
 
-LeetCode: https://leetcode.com/u/23pEL3v8SW/
-
-HackerRank: https://www.hackerrank.com/profile/kaique_silvestr1
-
-Study books:
-
-Grokking Algorithms
-
-Pro Git
-
-
+### Study books:
+<ul>
+<li>Grokking Algorithms
+<li>Pro Git
+</ul>
+<hr>
 
 [![kaique-silvestre](https://github-readme-stats.vercel.app/api/top-langs/?username=kaique-silvestre&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
