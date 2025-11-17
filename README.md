@@ -1,9 +1,26 @@
 ## Hello there I am Kaique👋
  
-I’m currently studying Systems Analysis and Development, with a strong focus on becoming a backend developer.
-At the moment, I’m learning C#, Python, Git, and data structures on my own — and practicing every day.
+I’m a backend developer in training, currently studying Analysis and Systems Development. I’m passionate about creating software and coding every day to learn and improve.
 
-I love the idea of building something useful through code. Programming gives me the freedom to create, experiment, fail, learn, and improve — and seeing things come to life is what keeps me motivated.
+I have experience with Python (Flask, Argparse, Selenium, PySide6) and C#, and I’m familiar with databases like MySQL, SQL Server, and SQLite. I also use Git/GitHub for version control.
+
+I love building useful things through code — experimenting, learning from mistakes, and seeing projects come to life keeps me motivated.
+
+When I’m not coding, I enjoy reading history books, learning languages, exploring investments, or taking a walk with my dog.
+
+Practice platforms:
+
+LeetCode: https://leetcode.com/u/23pEL3v8SW/
+
+HackerRank: https://www.hackerrank.com/profile/kaique_silvestr1
+
+Study books:
+
+Grokking Algorithms
+
+Pro Git
+
+
 
 [![kaique-silvestre](https://github-readme-stats.vercel.app/api/top-langs/?username=kaique-silvestre&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -25,21 +42,3 @@ I love the idea of building something useful through code. Programming gives me 
     style="padding-right: 10px;" 
   src="https://gistcdn.githack.com/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg" 
 />
-
-
-
-
-<!--
-**kaique-silvestre/kaique-silvestre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
